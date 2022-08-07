@@ -320,5 +320,5 @@ async def on_voice_state_update(member, before, after):
    
                                     
 
-client.run("OTkzODk0NDg5NzI5MDI4MTg4.GFaPm1.8ghlenwn1iqaFAuiE53mT-HgO25AvQnvCqzxJ8")
+client.run("")
 
