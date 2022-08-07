@@ -16,27 +16,12 @@ lt = [
 
 author_list = [   
 
-    624095315527467018,      #     process_singh         
-    492013542908755978,      #     brad              
-    389095932681125890,      #     hazor              
-    627173256251703307,      #     insaanimanav     
-    808610370767159298,      #     mr_no man            
-    460176086286729216,      #     jc                
-    549960854628466699,      #     topguns
-    689558174168121370       #     divyansh
+   
               ]
 
 VoiceChannel_list = {
 
-    "meeting room 1": 916727426950778931,  # meeting Room 1
-    "meeting room 2": 916727713438527548,  # meeting room 2 
-    "chill zone"    : 906159392389464164,  # chill zone
-    "lounge"        : 906144295197765692,  # lounge
-    "seminar hall"  : 908393705906507777,  # seminar hall
-    "gaming"        : 906144295197765693,  # meeting room 
-    "general"       : 896769550614401059,  # General       --- >   # jc server 
-    "voice_channel" : 996820281102434407,  # Voice_cahnnel ------> # jc  server
-    "admin"         : 906801469544607754   # admin channel 
+   
                      }
 
 
